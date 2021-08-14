@@ -1,0 +1,28 @@
+.active{
+    background-color: yellowgreen;
+    
+    border-top-right-radius:25px;
+    border-top-left-radius:5px;
+    }
+.li:hover{
+    background-color:skyblue;
+    
+}
+.id{
+    background-image:url('back7.jpg');
+    text-align:center;
+    font-size:20px;
+    
+  font-size-adjust: inherit;
+ margin:auto;
+}
+ .like{
+    font-size:15px;
+   
+}
+.card-body1{
+      background-color:burlywood;
+     display:flex;
+  }
+ 
+ 
